@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.head{
+	margin-left:90%;
+	
+}
+.body{
+	margin:5% 35% 5% 35%;
+	
+}
+.body .inputArea{
+	width:400px;
+	height:30px;
+}
+.body .check{
+	width:100px;
+	height:40px;
+	flaot:left;
+}
